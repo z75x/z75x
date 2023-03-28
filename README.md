@@ -1,3 +1,9 @@
+ <h1 align="center"> 🦅 Hello, I'm Us3r !</h1>
+
+<p align="center">
+<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+ <p align="center">
+ 
  <p align="center">
     <a href="https://discordapp.com/users/996023627105435658" target"blank_"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://open.spotify.com/user/31kal6lb4azjvq5lgf7ffd3kkrqm?si=3243e13a9e764237" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
