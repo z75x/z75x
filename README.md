@@ -15,11 +15,13 @@
 
   <div align="center">
   <a href="https://discord.com/users/596755457746665505" target="_blank">
-  <img src="https://lanyard-profile-readme.vercel.app/api/921072004524802089?bg=111111"> 
+  <img src="https://lanyard-profile-readme.vercel.app/api/713964434774556744?bg=111111"> 
 </a>
    </div>
 
    <div align="center">
-     <a href="https://github.com/z75x/"></a>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Us3rload&hide_border=true&background=111111&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=FFFFFF&ring=FFFFFF&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+   </div>
+   <div align="center">
+     <a href="https://github.com/z75x"></a>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=z75x&hide_border=true&background=111111&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=FFFFFF&ring=FFFFFF&stroke=FFFFFFFF)](https://git.io/streak-stats" />
   </div>
