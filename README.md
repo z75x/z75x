@@ -5,7 +5,7 @@
  <p align="center">
  
  <p align="center">
-    <a href="https://discord.gg/dmmN4SHhXV" target"blank_"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href="https://discord.gg/KZ9uVAH82p" target"blank_"><img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://www.youtube.com/channel/UCPS_doDHs3FuLrJtd5jTXPg" target"blank_"><img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
     <a href="https://twitter.com/tokyodiscord2" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
     <a href="https://github.com/z75x" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
